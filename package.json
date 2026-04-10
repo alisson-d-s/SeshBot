@@ -1,0 +1,16 @@
+{
+  "name": "seshbot",
+  "version": "1.0.0",
+  "description": "Discord bot that tracks daily Wordle results and generates rankings",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node --test"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.26.2",
+    "dotenv": "^17.4.1"
+  }
+}
